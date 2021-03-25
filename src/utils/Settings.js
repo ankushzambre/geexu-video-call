@@ -11,3 +11,4 @@ export const APP_ID = "4be4ffc903884cfda41af068e7aaf726";
 
 // Assign Token to null if you have not enabled app certificate
 export const Token = "0064be4ffc903884cfda41af068e7aaf726IADsluqusiNn4ygRZrbWPTrr/S6AnzEVPOpy3gxTxH04djLRTXgAAAAAEABfjXZEK4ddYAEAAQBjh11g";
+
